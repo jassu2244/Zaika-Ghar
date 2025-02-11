@@ -4,7 +4,7 @@ Welcome to **Zaika Ghar**, an authentic culinary destination offering a delightf
 
 ### 🌐 Live Demo
 
-Check out the live website [here](https://zaikaghar.netlify.app/).
+Check out the live website [here]([https://zaikaghar.netlify.app/).
 
 ## 🚀 Features
 
